@@ -1,0 +1,3 @@
+[submodule "did-core"]
+	path = did-core
+	url = https://github.com/CNU-DDE/did-core.git
