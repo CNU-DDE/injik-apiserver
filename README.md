@@ -1,5 +1,5 @@
-# Injik API Server
+# Injik/kend
 
 ## About
 
-Root repository for the injik-apiserver
+Klaytn endpoint node (kend) docker image packaged by injik
